@@ -41,14 +41,14 @@
       "points": 1
     },
     {
-      "name": "zadanie 3 html ",
+      "name": "zadanie 3 html i bledy",
       "setup": "sudo -H pip3 install requests",
       "run": "python task_3_test_2.py",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "zadanie 4 get",
@@ -82,7 +82,7 @@
     },
     {
       "name": "zadanie 4 delete",
-      "setup": "sudo -H pip3 install requeests",
+      "setup": "sudo -H pip3 install requests",
       "run": "python task_4_test_4.py",
       "input": "",
       "output": "",
